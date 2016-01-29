@@ -1,6 +1,7 @@
 # Project SCRUM
 
 SCRUM framework integrated into Odoo Project
+
 We recommend to use this module with project_team module.
 
 https://github.com/JayVora-SerpentCS/SerpentCS_Contributions-v8/tree/9.0/project_team
